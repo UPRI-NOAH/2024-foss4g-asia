@@ -1,0 +1,10 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Bangkok,13.7525,100.4942,Thailand,TH,Krung Thep Maha Nakhon,primary,18007000,8305218
+Chiang Mai,18.7953,98.9986,Thailand,TH,Chiang Mai,admin,1198000,1198000
+Nonthaburi,13.8667,100.5167,Thailand,TH,Nonthaburi,admin,255671,255671
+Pak Kret,13.9125,100.4978,Thailand,TH,Nonthaburi,minor,184501,184501
+Ban Bang Pu Mai,13.5441,100.6175,Thailand,TH,Samut Prakan,,120058,120058
+Ban Mangkon,13.6138,100.6104,Thailand,TH,Samut Prakan,,102291,102291
+Ban Talat Rangsit,13.9833,100.6167,Thailand,TH,Pathum Thani,,79319,79319
+Phuket,7.8881,98.3975,Thailand,TH,Phuket,admin,77610,77610
+Samut Sakhon,13.5486,100.2775,Thailand,TH,Samut Sakhon,admin,60103,60103
