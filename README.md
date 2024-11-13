@@ -23,7 +23,7 @@ Welcome to the Basic Python for Geospatial Workshop! This hands-on session is de
 - Basic interpolation using GeoCube
 
 ## Getting Started
-
+- Open this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UPRI-NOAH/2024-foss4g-asia/main)
 ## Additional Resources
 
 - [Python Documentation](https://docs.python.org/3/)
